@@ -27,3 +27,12 @@ export const getTodosByVisibilityFilter = createSelector(
     }
   }
 );
+
+const getKeyword = (state) => state.keyword
+
+export const getVisibleTodosFilteredByKeyword = createSelector(
+  [ getTodosByVisibilityFilter, getKeyword ],
+  (visibleTodos, keyword) => visibleTodos.filter(
+    todo => todo.content.includes(keyword)
+  )
+)

@@ -2,6 +2,7 @@ import './App.css';
 import AddTodo from "./components/AddTodo";
 import TodoList from "./components/TodoList";
 import VisibilityFilters from "./components/VisibilityFilters";
+import Keyword from './components/Keyword';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <AddTodo />
       <TodoList />
       <VisibilityFilters />
+      <Keyword />
     </div>
   );
 }

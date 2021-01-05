@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0993db6d-9dec-4de0-846e-3a60f2f936a3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TodoList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TodoList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/actionTypes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/actionTypes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/actions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/reducers/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/selectors.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/selectors.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609754895057</updated>
-      <workItem from="1609754896270" duration="9722000" />
+      <workItem from="1609754896270" duration="12508000" />
     </task>
     <servers />
   </component>
